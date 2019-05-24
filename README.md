@@ -1,2 +1,2 @@
 # CST-221
-Operating Systems
+Hello! My name is Roman Parkhomenko. I'm a Colorado Springs based Front-End Web Developer and GCU Student. I live in Colorado Springs with my lovely wife and 1.5 children. I've been obsessed with technology and computers since getting my first AOL internet CD. My hobbies include spending time with my family, playing and producing music, and playing Rocket League. I look forward to being in this class with everyone!
